@@ -3,7 +3,7 @@
 
 
 ╔══════════════════════════════════════════════════════════════════╗
-║   A B Y S S   C R A W L E R   —   Roguelike Dungeon Crawler     ║
+║   A B Y S S   C R A W L E R   —   Roguelike Dungeon Crawler      ║
 ║                                                                  ║
 ║   pip install pygame          (only dependency)                  ║
 ║                                                                  ║
